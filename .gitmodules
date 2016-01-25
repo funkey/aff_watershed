@@ -1,0 +1,6 @@
+[submodule "zlateski"]
+	path = zlateski
+	url = https://github.com/zlateski/watershed
+[submodule "cmake"]
+	path = cmake
+	url = https://github.com/funkey/cmake
